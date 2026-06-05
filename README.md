@@ -59,8 +59,8 @@
 </p>
 
 <!-- Anime.js V4 লোগোর ঠিক নিচে নতুন কাস্টম GIF ব্যানার -->
-<img width="800" height="635" alt="1000152252" src="https://github.com/user-attachments/assets/6f38a18f-17d8-41dc-b004-086758a900ee" />
 
+<img width="800" height="635" alt="1000152264" src="https://github.com/user-attachments/assets/2f9f9e44-0388-46b4-92e8-8ff2ab82ba28" />
 
 <!-- Snake Game Repo View -->
 <div align="center">
@@ -245,4 +245,3 @@ GitHub Profile Trophy 🏆
 
 </body>
 </html>
-
