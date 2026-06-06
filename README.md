@@ -60,7 +60,7 @@
 
 <!-- Anime.js V4 লোগোর ঠিক নিচে নতুন কাস্টম GIF ব্যানার -->
 
-<img width="800" height="635" alt="1000152264" src="https://github.com/user-attachments/assets/2f9f9e44-0388-46b4-92e8-8ff2ab82ba28" />
+<img width="800" height="635" alt="1000152374" src="https://github.com/user-attachments/assets/abf7f486-438c-4fd5-aabc-09675a61c055" />
 
 <!-- Snake Game Repo View -->
 <div align="center">
