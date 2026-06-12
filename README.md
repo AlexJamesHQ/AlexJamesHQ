@@ -239,7 +239,7 @@ GitHub Profile Trophy 🏆
 <br>
 <p>&nbsp;<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msob7yy&theme=dark&" alt="" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msob7yy&show_icons=true&locale=en&layout=compact&theme=dark" alt="" /></p>
+<p>&nbsp;<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msob7yy&show_icons=true&locale=en&layout=compact&theme=dark" alt="" /></p>
 
 </body>
 </html>
