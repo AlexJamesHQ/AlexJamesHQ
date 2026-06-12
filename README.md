@@ -237,8 +237,6 @@ GitHub Profile Trophy 🏆
 <br><br>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msob7yy&orgs=namidaco&include_orgs=true&show_icons=true&locale=en&theme=dark" alt="" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msob7yy&theme=dark&" alt="" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msob7yy&show_icons=true&locale=en&layout=compact&theme=dark" alt="" /></p>
