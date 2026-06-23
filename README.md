@@ -30,11 +30,8 @@
 <h1 align="center">Hi 👋, I'm ΛLΞX JΛMΞS ᗪEV</h1>
 <h3 align="center">ΛLΞX|UI/υX, Web/App Development, 3D & Branding Agency</h3>
 
-- 🔭 I’m currently working on: [ΛLΞX JΛMΞS ᗪEV](https://alexjameshq.github.io/AlexJamesHQ.io/)
-
 - 📫 Reach me on: **alexjames7830@gmail.com**
 
-- 📄 Know about my experiences/projects: [iOS-FILTER.io](https://alexjameshq.github.io/iOS-FILTER.io/)
 <a href="https://www.facebook.com/share/1BibjbqQS6/">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
