@@ -31,7 +31,7 @@
 <h3 align="center">ΛLΞX|UI/υX, Web/App Development, 3D & Branding Agency</h3>
 
 - 📫 Reach me on: **alexjames7830@gmail.com**
-- 💻 GitHub Portfolio: **https://bit.ly/alex-james-dev**
+- 💻 GitHub Portfolio: **https://alexjameshq.github.io/PORTFOLIO**
 <a href="https://www.facebook.com/share/1BibjbqQS6/">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
