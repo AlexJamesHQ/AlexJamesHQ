@@ -32,9 +32,11 @@
 
 - 📫 Reach me on: **alexjames7830@gmail.com**
 - 💻 GitHub Portfolio: **http://alex-james.vercel.app**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/share/1BibjbqQS6/">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/alex.james.dev?igsh=dDg5cG5nZTB6aDBx">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
