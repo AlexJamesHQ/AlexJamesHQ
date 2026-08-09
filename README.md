@@ -21,7 +21,7 @@
 -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1e567e29-cf52-4fc1-b638-48bc4de91b57" width="50" height="50" alt="GitHub Logo">
+  <img src="https://github.com/user-attachments/assets/39d57249-29e6-447a-8da9-3d9ad92cb796" width="50" height="50" alt="GitHub Logo">
   
   <!-- Animated Typing Text Banner -->
   <p>
