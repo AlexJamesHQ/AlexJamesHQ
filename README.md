@@ -88,3 +88,5 @@
       <img src="https://www.gitskins.com/api/section/heatmap?username=@AlexJamesHQ&theme=satan" alt="@AlexJamesHQ heatmap section" />
     </picture>
   </p>
+</body>
+</html>
