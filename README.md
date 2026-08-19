@@ -35,15 +35,6 @@
     </picture>
   </p>
 
-  <!-- About Section -->
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=github-light&mode=light&v=auto" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=satan&mode=dark&v=auto" />
-      <img src="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=satan&v=auto" alt="AlexJamesHQ about section" />
-    </picture>
-  </p>
-  
   <!-- Stats Section -->
   <p align="center">
     <picture>
@@ -52,14 +43,14 @@
       <img src="https://www.gitskins.com/api/section/stats?username=AlexJamesHQ&theme=satan&v=auto" alt="AlexJamesHQ stats section" />
     </picture>
   </p>
-
-  <!-- Stack Section -->
+  
+  <!-- Highlights Section -->
   <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=github-light&mode=light&v=auto" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=satan&mode=dark&v=auto" />
-      <img src="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=satan&v=auto" alt="AlexJamesHQ stack section" />
-    </picture>
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=AlexJamesHQ&theme=github-light&mode=light&v=auto" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/highlights?username=AlexJamesHQ&theme=satan&mode=dark&v=auto" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=AlexJamesHQ&theme=satan&v=auto" alt="AlexJamesHQ highlights section" />
+  </picture>
   </p>
 
   <!-- Projects Section -->
@@ -70,14 +61,14 @@
       <img src="https://www.gitskins.com/api/section/projects?username=AlexJamesHQ&theme=satan&v=auto" alt="AlexJamesHQ projects section" />
     </picture>
   </p>
-
-  <!-- Highlights Section -->
+  
+  <!-- Stack Section -->
   <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=AlexJamesHQ&theme=github-light&mode=light&v=auto" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/highlights?username=AlexJamesHQ&theme=satan&mode=dark&v=auto" />
-      <img src="https://www.gitskins.com/api/section/highlights?username=AlexJamesHQ&theme=satan&v=auto" alt="AlexJamesHQ highlights section" />
-    </picture>
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=github-light&mode=light&v=auto" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=satan&mode=dark&v=auto" />
+  <img src="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=satan&v=auto" alt="AlexJamesHQ stack section" />
+  </picture>
   </p>
 
   <!-- Heatmap Section -->
@@ -89,3 +80,13 @@
     </picture>
   </p>
 </div>
+
+<!-- About Section -->
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=github-light&mode=light&v=auto" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=satan&mode=dark&v=auto" />
+      <img src="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=satan&v=auto" alt="AlexJamesHQ about section" />
+    </picture>
+  </p>
+  
