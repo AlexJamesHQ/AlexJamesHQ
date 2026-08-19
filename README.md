@@ -90,3 +90,12 @@
     </picture>
   </p>
   
+  <!-- Social Section -->
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=AlexJamesHQ&theme=github-light&mode=light&v=auto" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/social?username=AlexJamesHQ&theme=satan&mode=dark&v=auto" />
+      <img src="https://www.gitskins.com/api/section/social?username=AlexJamesHQ&theme=satan&v=auto" alt="AlexJamesHQ social section" />
+    </picture>
+  </p>
+</div>
