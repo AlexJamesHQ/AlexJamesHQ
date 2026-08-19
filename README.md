@@ -29,62 +29,62 @@
   <!-- Hero Section -->
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=AlexJamesHQ&theme=github-light&mode=light" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=AlexJamesHQ&theme=satan&mode=dark" />
-      <img src="https://www.gitskins.com/api/section/hero?username=AlexJamesHQ&theme=satan" alt="AlexJamesHQ hero section" />
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=@AlexJamesHQ&theme=github-light&mode=light" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=@AlexJamesHQ&theme=satan&mode=dark" />
+      <img src="https://www.gitskins.com/api/section/hero?username=@AlexJamesHQ&theme=satan" alt="@AlexJamesHQ hero section" />
     </picture>
   </p>
 
   <!-- About Section -->
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=github-light&mode=light" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=satan&mode=dark" />
-      <img src="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=satan" alt="AlexJamesHQ about section" />
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=@AlexJamesHQ&theme=github-light&mode=light" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/about?username=@AlexJamesHQ&theme=satan&mode=dark" />
+      <img src="https://www.gitskins.com/api/section/about?username=@AlexJamesHQ&theme=satan" alt="@AlexJamesHQ about section" />
     </picture>
   </p>
   
   <!-- Stats Section -->
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=AlexJamesHQ&theme=github-light&mode=light" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stats?username=AlexJamesHQ&theme=satan&mode=dark" />
-      <img src="https://www.gitskins.com/api/section/stats?username=AlexJamesHQ&theme=satan" alt="AlexJamesHQ stats section" />
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=@AlexJamesHQ&theme=github-light&mode=light" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stats?username=@AlexJamesHQ&theme=satan&mode=dark" />
+      <img src="https://www.gitskins.com/api/section/stats?username=@AlexJamesHQ&theme=satan" alt="@AlexJamesHQ stats section" />
     </picture>
   </p>
 
   <!-- Stack Section -->
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=github-light&mode=light" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=satan&mode=dark" />
-      <img src="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=satan" alt="AlexJamesHQ stack section" />
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=@AlexJamesHQ&theme=github-light&mode=light" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=@AlexJamesHQ&theme=satan&mode=dark" />
+      <img src="https://www.gitskins.com/api/section/stack?username=@AlexJamesHQ&theme=satan" alt="@AlexJamesHQ stack section" />
     </picture>
   </p>
 
   <!-- Projects Section -->
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=AlexJamesHQ&theme=github-light&mode=light" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=AlexJamesHQ&theme=satan&mode=dark" />
-      <img src="https://www.gitskins.com/api/section/projects?username=AlexJamesHQ&theme=satan" alt="AlexJamesHQ projects section" />
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=@AlexJamesHQ&theme=github-light&mode=light" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=@AlexJamesHQ&theme=satan&mode=dark" />
+      <img src="https://www.gitskins.com/api/section/projects?username=@AlexJamesHQ&theme=satan" alt="@AlexJamesHQ projects section" />
     </picture>
   </p>
 
   <!-- Highlights Section -->
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=AlexJamesHQ&theme=github-light&mode=light" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/highlights?username=AlexJamesHQ&theme=satan&mode=dark" />
-      <img src="https://www.gitskins.com/api/section/highlights?username=AlexJamesHQ&theme=satan" alt="AlexJamesHQ highlights section" />
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=@AlexJamesHQ&theme=github-light&mode=light" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/highlights?username=@AlexJamesHQ&theme=satan&mode=dark" />
+      <img src="https://www.gitskins.com/api/section/highlights?username=@AlexJamesHQ&theme=satan" alt="@AlexJamesHQ highlights section" />
     </picture>
   </p>
 
   <!-- Heatmap Section -->
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=AlexJamesHQ&theme=github-light&mode=light" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=AlexJamesHQ&theme=satan&mode=dark" />
-      <img src="https://www.gitskins.com/api/section/heatmap?username=AlexJamesHQ&theme=satan" alt="AlexJamesHQ heatmap section" />
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=@AlexJamesHQ&theme=github-light&mode=light" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=@AlexJamesHQ&theme=satan&mode=dark" />
+      <img src="https://www.gitskins.com/api/section/heatmap?username=@AlexJamesHQ&theme=satan" alt="@AlexJamesHQ heatmap section" />
     </picture>
   </p>
