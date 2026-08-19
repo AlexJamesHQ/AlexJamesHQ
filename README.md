@@ -30,35 +30,42 @@
   <p>
      📫 Reach me on: <b>alexjames7830@gmail.com</b><br>
      💻 Portfolio: <b><a href="http://alex-james.vercel.app" target="_blank">ΛLΞX JΛMΞS ᗪEV</a></b>
+  </p>
+</div>
+
 <div align="center">
   <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=AlexJamesHQ&theme=github-dark&mode=light" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=AlexJamesHQ&theme=github-light&mode=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=AlexJamesHQ&theme=github-dark&mode=dark" />
     <img src="https://www.gitskins.com/api/section/hero?username=AlexJamesHQ&theme=github-dark" alt="AlexJamesHQ hero section" />
   </picture>
 </p>
   
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=AlexJamesHQ&theme=github-dark&mode=light" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=AlexJamesHQ&theme=github-light&mode=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stats?username=AlexJamesHQ&theme=github-dark&mode=dark" />
     <img src="https://www.gitskins.com/api/section/stats?username=AlexJamesHQ&theme=github-dark" alt="AlexJamesHQ stats section" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=github-dark&mode=light" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=github-light&mode=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=github-dark&mode=dark" />
     <img src="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=github-dark" alt="AlexJamesHQ stack section" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=AlexJamesHQ&theme=github-dark&mode=light" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=AlexJamesHQ&theme=github-light&mode=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=AlexJamesHQ&theme=github-dark&mode=dark" />
     <img src="https://www.gitskins.com/api/section/projects?username=AlexJamesHQ&theme=github-dark" alt="AlexJamesHQ projects section" />
   </picture>
 </p>
-
+</div>
 
 <!-- Snake Game Animation -->
 <div align="center">
@@ -181,7 +188,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=github-dark&mode=light" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=github-light&mode=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=github-dark&mode=dark" />
     <img src="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=github-dark" alt="AlexJamesHQ about section" />
   </picture>
 </p>
