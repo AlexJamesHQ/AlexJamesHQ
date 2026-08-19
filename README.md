@@ -19,10 +19,9 @@
     <link rel="manifest" href="manifest.json">
   </head>
 -->
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/39d57249-29e6-447a-8da9-3d9ad92cb796" width="50" height="50" alt="GitHub Logo">
-  
+  <p align="center">
+</p>
   <!-- Animated Typing Text Banner -->
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=60&lines=Hi+👋%2C+I'm+ΛLΞX+JΛMΞS+ᗪEV;UI%2FUX+%26+Web+Developer;App+Developer+%26+3D+Designer" alt="Typing SVG" />
@@ -31,42 +30,35 @@
   <p>
      📫 Reach me on: <b>alexjames7830@gmail.com</b><br>
      💻 Portfolio: <b><a href="http://alex-james.vercel.app" target="_blank">ΛLΞX JΛMΞS ᗪEV</a></b>
-  </p>
-
-  <!-- Social Badges -->
-  <p>
-    <a href="https://www.facebook.com/share/1BibjbqQS6/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-    </a>
-    <a href="https://www.instagram.com/alex.james.dev?igsh=dDg5cG5nZTB6aDBx" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://t.me/Alex_EMBUX7920" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-    <a href="https://www.youtube.com/@ALEX-JAMES-8504" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-    </a>
-  </p>
-</div>
-
----
-
-<!-- Anime.js Logo Animation -->
-<p align="center">
+<div align="center">
+  <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/images/animejs-v4-logo-animation-dark.gif">
-    <img alt="Anime.js V4 logo animation" src="https://i.postimg.cc/fy9jSgGC/animejs-v4-logo-animation.gif" width="560">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=AlexJamesHQ&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=AlexJamesHQ&theme=github-dark" alt="AlexJamesHQ hero section" />
   </picture>
 </p>
+  
 <p align="center">
-  <img alt="Anime.js V4 logo animation" src="https://i.postimg.cc/wjyh0nFN/Anime.js_V4.gif" width="560">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=AlexJamesHQ&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=AlexJamesHQ&theme=github-dark" alt="AlexJamesHQ stats section" />
+  </picture>
 </p>
 
-<!-- Custom GIF Banner -->
 <p align="center">
-  <img width="800" height="635" alt="Custom Banner" src="https://github.com/user-attachments/assets/abf7f486-438c-4fd5-aabc-09675a61c055" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=AlexJamesHQ&theme=github-dark" alt="AlexJamesHQ stack section" />
+  </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=AlexJamesHQ&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=AlexJamesHQ&theme=github-dark" alt="AlexJamesHQ projects section" />
+  </picture>
+</p>
+
 
 <!-- Snake Game Animation -->
 <div align="center">
@@ -187,9 +179,11 @@
 
 ---
 
-<h3 align="center">GitHub Stats & Streaks</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msob7yy&theme=dark&" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=AlexJamesHQ&theme=github-dark" alt="AlexJamesHQ about section" />
+  </picture>
 </p>
 
 ---
