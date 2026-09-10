@@ -1,15 +1,15 @@
 <div align="center">
 
-![master-banner](https://capsule-render.vercel.app/api?type=venom&height=350&color=0:A78BFA,40:FF8FF8,70:FF8FC0&text=Cognitiveshadows%2003&fontSize=72&fontColor=fff&animation=twinkling&stroke=CE8FFF&strokeWidth=3&desc=✦%20Shadow%20in%20the%20Shell%20✦&descSize=28&descAlignY=75)
+![master-banner](https://capsule-render.vercel.app/api?type=venom&height=350&color=0:A78BFA,40:FF8FF8,70:FF8FC0&text=AlexJamesHQ&fontSize=72&fontColor=fff&animation=twinkling&stroke=CE8FFF&strokeWidth=3&desc=✦%20Shadow%20in%20the%20Shell%20✦&descSize=28&descAlignY=75)
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,25:7DD3FC,50:FFFFFF,75:F9A8D4,100:0D1117&animation=blink&section=header)
 
-![typing](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=1000&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=700&height=80&lines=✦+Cognitiveshadows+✦)
+![typing](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=1000&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=700&height=80&lines=✦+AlexJamesHQ+✦)
 
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:7DD3FC,60:7DD3FC,100:0D1117&animation=fadeIn)
 
-![bio](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=1200&pause=0&color=CBD5E1&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=260&lines=✦+Alias+→+Cognitiveshadows;✦+Android+Tinkerer+•+Root+•+ADB+•+Fastboot+•+Linux;✦+Anime,+Japanese+music+%26+late-night+debugging;✦+break+→+understand+→+rebuild;✦+Windows+%2F+Android+%2F+CMD+%2F+ADB+%2F+System+Internals;✦+Curiosity+Driven+Engineering+%26+Minimal+Systems;✦+Caffeine+%2B+Code+%2B+Chaos;✦+Mostly+Offline;✧+Grinding+Alone+In+Silence;✧+Solo+Levelling+Up)
+![bio](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=1200&pause=0&color=CBD5E1&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=260&lines=✦+Alias+→+AlexJamesHQ;✦+Android+Tinkerer+•+Root+•+ADB+•+Fastboot+•+Linux;✦+Anime,+Japanese+music+%26+late-night+debugging;✦+break+→+understand+→+rebuild;✦+Windows+%2F+Android+%2F+CMD+%2F+ADB+%2F+System+Internals;✦+Curiosity+Driven+Engineering+%26+Minimal+Systems;✦+Caffeine+%2B+Code+%2B+Chaos;✦+Mostly+Offline;✧+Grinding+Alone+In+Silence;✧+Solo+Levelling+Up)
 </div>
 
 <div align="center">
@@ -36,7 +36,7 @@
 
 <br>
 
-[![AniList](https://img.shields.io/badge/✦_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/user/Cognitiveshadows03/)
+[![AniList](https://img.shields.io/badge/✦_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/user/AlexJamesHQ/)
 
 </div>
 
@@ -89,9 +89,9 @@
 
 ![vibes-text](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=EDE9FE&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=100&lines=✦+Late+nights+feel+different.;✦+Everything+slows+down+and+makes+sense.;✦+Music+becomes+louder+than+reality.)
 
-| | |
-|:---:|:---:|
-| ![gif2](./lofi-closing.gif) |
+ | |
+:---:|:---:|
+ ![gif2](./lofi-closing.gif) |
 
 </div>
 
@@ -101,13 +101,13 @@
 
 ![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F87171&center=true&vCenter=true&repeat=false&width=480&height=72&lines=✦+CONNECT+✦)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=F472B6)](https://www.instagram.com/7h3.qu13t.0n3?igsh=MXRiajN4cTlzMTg0MQ==)
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=7DD3FC)](https://t.me/Cognitiveshadows)
-[![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=FB923C)](mailto:sharppirate381@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=F472B6)](https://www.instagram.com/alex.james.dev?stkn=dDg5cG5nZTB6aDBx)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=7DD3FC)](https://t.me/Alex_EMBUX7920)
+[![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=FB923C)](mailto:alexjames7830@gmail.com)
 
 <br>
 
-[![profile views](https://komarev.com/ghpvc/?username=cognitiveshadows03&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/cognitiveshadows03)
+[![profile views](https://komarev.com/ghpvc/?username=AlexJamesHQ&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/AlexJamesHQ)
 
 </div>
 
