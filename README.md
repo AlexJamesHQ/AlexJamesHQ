@@ -6,10 +6,9 @@
 
 ![typing](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=1000&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=700&height=80&lines=✦+AlexJamesHQ+✦)
 
-
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:7DD3FC,60:7DD3FC,100:0D1117&animation=fadeIn)
 
-![bio](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=1200&pause=0&color=CBD5E1&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=260&lines=✦+Alias+→+AlexJamesHQ;✦+Android+Tinkerer+•+Root+•+ADB+•+Fastboot+•+Linux;✦+Anime,+Japanese+music+%26+late-night+debugging;✦+break+→+understand+→+rebuild;✦+Windows+%2F+Android+%2F+CMD+%2F+ADB+%2F+System+Internals;✦+Curiosity+Driven+Engineering+%26+Minimal+Systems;✦+Caffeine+%2B+Code+%2B+Chaos;✦+Mostly+Offline;✧+Grinding+Alone+In+Silence;✧+Solo+Levelling+Up)
+![bio](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=1200&pause=0&color=CBD5E1&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=260&lines=✦+Identity+→+AlexJamesHQ;✦+Developer+•+Android+Expert+•+System+Architect;✦+Crafting+Code+in+the+Shadows;✦+Break+→+Understand+→+Rebuild;✦+Minimalist+System+Design;✦+Grinding+In+Silence+•+Leveling+Up+Alone)
 </div>
 
 <div align="center">
@@ -18,17 +17,15 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117&animation=fadeIn)
 
-![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F1A8FF&center=true&vCenter=true&repeat=false&width=720&height=72&lines=✦+ALL+TIME+FAVORITES+✦)
+![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F1A8FF&center=true&vCenter=true&repeat=false&width=720&height=72&lines=✦+FAVORITES+✦)
 
 ![Favs-Gif](./favorites.gif)
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117&animation=fadeIn)
 
-![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F9A8D4&center=true&vCenter=true&repeat=false&width=720&height=72&lines=✦+CURRENTLY+WATCHING+✦)
+![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F9A8D4&center=true&vCenter=true&repeat=false&width=720&height=72&lines=✦+WATCHING+✦)
 
 ![Watching-Gif](./watching.gif)
-
-<br>
 
 </div>
 
@@ -38,13 +35,14 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117&animation=fadeIn)
 
-![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=87AAFF&center=true&vCenter=true&repeat=false&width=680&height=72&lines=✦+Device+Logs+✦)
+![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=87AAFF&center=true&vCenter=true&repeat=false&width=680&height=72&lines=✦+Hardware+Logs+✦)
 
 [![iPhone](https://img.shields.io/badge/✦_iPhone-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF)](https://apple.com)
 [![Samsung](https://img.shields.io/badge/✦_Samsung-0D1117?style=for-the-badge&logo=samsung&logoColor=007AFF)](https://samsung.com)
 [![Google Pixel](https://img.shields.io/badge/✦_Google_Pixel-0D1117?style=for-the-badge&logo=google&logoColor=4285F4)](https://store.google.com)
 
-![sys](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=148&lines=※+Exploring+the+digital+frontier.;※+Code+is+my+poetry.;※+Logic+is+my+only+law.;※+Designing+the+future+with+Alex.;※+The+shadow+in+the+shell+is+me.)
+![sys](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=148&lines=※+Exploring+the+digital+frontier.;※+Code+is+my+poetry.;※+Logic+is+my+only+law.;※+The+shadow+in+the+shell+is+me.)
+
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117&animation=fadeIn)
 
 [![Magisk](https://img.shields.io/badge/Magisk-0D1117?style=for-the-badge&logo=magisk&logoColor=00AF9C)](https://github.com/topjohnwu/Magisk)
@@ -57,38 +55,23 @@
 
 <div align="center">
 
-![divider](https://capsule-render.app/api?type=rect&height=2&color=0:0D1117,40:FCD34D,60:FCD34D,100:0D1117&animation=fadeIn)
+![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:FCD34D,60:FCD34D,100:0D1117&animation=fadeIn)
 
-![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=FCD34D&center=true&vCenter=true&repeat=false&width=680&height=72&lines=✧+日本語+PROGRESS+✧)
+![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=FCD34D&center=true&vCenter=true&repeat=false&width=680&height=72&lines=✧+TECH+SKILLS+✧)
 
-![hiragana](https://img.shields.io/badge/✦_Hiragana-COMPLETE-0D1117?style=for-the-badge&logo=duolingo&logoColor=4ADE80&labelColor=0D1117)
-![katakana](https://img.shields.io/badge/✦_Katakana-IN_PROGRESS-0D1117?style=for-the-badge&logo=duolingo&logoColor=4ADE80&labelColor=0D1117)
-![numbers](https://img.shields.io/badge/✦_Numbers-IN_PROGRESS-0D1117?style=for-the-badge&logo=duolingo&logoColor=4ADE80&labelColor=0D1117)
-![particles](https://img.shields.io/badge/✦_Particles-IN_PROGRESS-0D1117?style=for-the-badge&logo=duolingo&logoColor=FCD34D&labelColor=0D1117)
-![grammar](https://img.shields.io/badge/✦_N5_Grammar-IN_PROGRESS-0D1117?style=for-the-badge&logo=duolingo&logoColor=FCD34D&labelColor=0D1117)
-![jlpt](https://img.shields.io/badge/✦_JLPT_N5-TARGET-0D1117?style=for-the-badge&logo=duolingo&logoColor=F87171&labelColor=0D1117)
+![python](https://img.shields.io/badge/✦_Python-0D1117?style=for-the-badge&logo=python&logoColor=4ADE80)
+![javascript](https://img.shields.io/badge/✦_JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FCD34D)
+![linux](https://img.shields.io/badge/✦_Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![android](https://img.shields.io/badge/✦_Android-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84)
+![git](https://img.shields.io/badge/✦_Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 
->「いつか日本語を話せるようになりたい」*
-
-</div>
-
-<div align="center">
-
-![divider](https://capsule-render.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117&animation=fadeIn)
-
-![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=C084FC&center=true&vCenter=true&repeat=false&width=480&height=72&lines=✦+雰囲気+VIBES+✦)
-
-![vibes-text](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=EDE9FE&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=100&lines=✦+Late+nights+feel+different.;✦+Everything+slows+down+and+makes+sense.;✦+Music+becomes+louder+than+reality.)
-
- | |
-:---:|:---:|
- ![gif2](./lofi-closing.gif) |
+> "Turning imagination into reality, one line at a time."
 
 </div>
 
 <div align="center">
 
-![divider](https://capsule-render.app/api?type=rect&height=2&color=0:0D1117,40:F87171,60:F87171,100:0D1117&animation=fadeIn)
+![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F87171,60:F87171,100:0D1117&animation=fadeIn)
 
 ![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F87171&center=true&vCenter=true&repeat=false&width=480&height=72&lines=✦+CONNECT+✦)
 
