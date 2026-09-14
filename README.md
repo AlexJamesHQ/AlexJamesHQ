@@ -25,5 +25,15 @@
         <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
       </td>
     </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github.com/user-attachments/assets/b53c8cbf-e7e4-4beb-80db-8b20cef3bc74" alt="GIF 1" width="100%" style="border-radius: 8px;" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github.com/user-attachments/assets/84d03182-1c6a-4ddb-aaf8-8975277d5520" alt="GIF 3" width="100%" style="border-radius: 8px;" />
+      </td>
+    </tr>
   </table>
 </p>
