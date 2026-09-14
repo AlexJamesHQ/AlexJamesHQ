@@ -14,4 +14,9 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexJameshq&theme=ayu_mirage&animation=rgb-soft&utcOffset=6">
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://ghchart.rshah.org/409ba5/AlexJamesHQ" alt="Contribution Calendar" width="100%" style="border-radius: 8px; box-shadow: 0 0 15px rgba(167, 139, 250, 0.4); animation: pulse 2s infinite;" />
+    </td>
+  </tr>
 </table>
