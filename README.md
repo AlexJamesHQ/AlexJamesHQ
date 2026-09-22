@@ -1,6 +1,10 @@
 [![Alex James Portfolio](https://capsule-render.vercel.app/api?type=venom&height=350&color=0:A78BFA,40:FF8FF8,70:FF8FC0&text=Alex%20James&fontSize=72&fontColor=fff&animation=twinkling&stroke=CE8FFF&strokeWidth=3&desc=%E2%9C%A6%20Shadow%20in%20the%20Shell%20%E2%9C%A6&descSize=28&descAlignY=75)](https://alex-james.vercel.app)
 
 <p align="center">
+  <br>
+  <img width="720" height="720" alt="1000206746" src="https://github.com/user-attachments/assets/e92b678d-7134-4a85-b8c7-6d66773802f7" style="border-radius: 12px; border: 2px solid #A78BFA;" />
+  <br><br>
+
   <table width="100%" style="border: 2px solid #A78BFA; border-radius: 15px; background-color: #0d1117; padding: 15px;">
     <tr>
       <td align="center" colspan="2">
