@@ -7,38 +7,6 @@
 </p>
 
 <div align="center">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1400&color=A78BFA&center=true&vCenter=true&width=620&lines=%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%20%C2%B7%20UI%2FUX%20%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%9E%E3%83%B3;%E2%9C%A6%20Shadow%20in%20the%20Shell%20%E2%9C%A6" alt="Typing SVG">
-  <br><br>
-  <a href="https://github.com/AlexJameshq?tab=followers"><img src="https://img.shields.io/github/followers/AlexJameshq?style=flat-square&label=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%AF%E3%83%BC&color=a78bfa&labelColor=161b22&logo=github" alt="Followers"></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AlexJameshq&style=flat-square&label=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E8%93%84%E7%A9%8D%E8%A1%A8%E7%A4%BA&color=a78bfa" alt="Profile views">
-  &nbsp;
-  <a href="https://alex-james.vercel.app"><img src="https://img.shields.io/badge/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%AA%E3%83%AA%E3%82%AA-alex--james.vercel.app-a78bfa?style=flat-square&labelColor=161b22&logo=vercel&logoColor=white" alt="Portfolio"></a>
-</div>
-
-<div align="center">
-
-## ✦ 自己紹介
-
-普通のコーダーとゲーマーの男の子です —  
-きれいなコードを書くことと、ゲームの世界に浸ることが好きです。
-
-**現在制作中 → [alex-james.vercel.app](https://alex-james.vercel.app)**
-
-</div>
-
-<div align="center">
-
-## ✦ 技術スタック
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python&perline=6" alt="Languages">
-<br><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,tailwind,git,github,docker&perline=6" alt="Tools & Platforms">
-
-</div>
-
-<div align="center">
 
 ## ✦ スタッツ
 
