@@ -1,0 +1,47 @@
+# ============================================================
+# snake.yml — Contribution Grid Snake Animation
+#
+# HOW TO EDIT:
+#   - EDIT: Change 'cron' schedule if you want the snake to
+#     regenerate more/less often. Default: daily at midnight UTC.
+#     Cron format: minute hour day month weekday
+#     Example every 12h: '0 */12 * * *'
+#
+#   - EDIT: Change 'github_user_name' if your username changes.
+#
+#   - DO NOT change the output paths — they must match what
+#     README.md references: output/github-contribution-grid-snake-dark.svg
+# ============================================================
+
+name: Generate Snake
+
+on:
+  schedule:
+    # EDIT: Cron schedule — currently runs daily at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:  # allows manual trigger from Actions tab
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          # EDIT: Change to your GitHub username if it ever changes
+          github_user_name: cognitiveshadows03
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push output to 'output' branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
