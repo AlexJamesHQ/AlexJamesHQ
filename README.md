@@ -4,7 +4,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,25:7DD3FC,50:FFFFFF,75:F9A8D4,100:0D1117&animation=blink&section=header)
 
-![bio](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=1200&pause=0&color=CBD5E1&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=260&lines=✦+Name+→+Alex+James;✦+Gender+→+Male;✦+Android+Tinkerer+•+Root+•+ADB+•+Fastboot+•+Linux;✦+Anime,+Japanese+music+%26+late-night+debugging;✦+break+→+understand+→+rebuild;✦+Windows+%2F+Android+%2F+CMD+%2F+ADB+%2F+System+Internals;✦+Curiosity+Driven+Engineering+%26+Minimal+Systems;✦+Caffeine+%2B+Code+%2B+Chaos;✦+Mostly+Offline;✧+Grinding+Alone+In+Silence;✧+Solo+Levelling+Up)
+![bio](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=1200&pause=0&color=CBD5E1&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=280&lines=✦+Name+→+Alex+James;✦+Gender+→+Male;✦+Location+→+Pabna,+Bangladesh;✦+Android+Tinkerer+•+Root+•+ADB+•+Fastboot+•+Linux;✦+Anime,+Japanese+music+%26+late-night+debugging;✦+break+→+understand+→+rebuild;✦+Windows+%2F+Android+%2F+CMD+%2F+ADB+%2F+System+Internals;✦+Caffeine+%2B+Code+%2B+Chaos;✦+Mostly+Offline;✧+Grinding+Alone+In+Silence;✧+Solo+Levelling+Up)
 </div>
 
 <div align="center">
@@ -62,7 +62,7 @@
 
 <br>
 
-[![profile views](https://komarev.com/ghpvc/?username=AlexJamesHQ&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/AlexJamesHQ)
+[![profile views](https://komarev.com/ghpvc/?username=AlexJamesHQ&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&value=800&abbreviated=false)](https://github.com/AlexJamesHQ)
 
 </div>
 
