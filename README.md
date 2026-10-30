@@ -27,26 +27,6 @@
 [![Chainsaw Man:Reze Arc](https://img.shields.io/badge/✦_CHAINSAW_MAN-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/anime/171627/Chainsaw-Man--The-Movie-Reze-Arc/)
 [![I Want to Eat Your Pancreas](https://img.shields.io/badge/✦_I_WANT_TO_EAT_YOUR_PANCREAS-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/anime/99750/I-Want-to-Eat-Your-Pancreas/)
 
-![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117&animation=fadeIn)
-
-![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117&animation=fadeIn)
-
-![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=87AAFF&center=true&vCenter=true&repeat=false&width=680&height=72&lines=✦+Device+Logs+✦)
-
-[![Device](https://img.shields.io/badge/✦_SAMSUNG_GALAXY-0D1117?style=for-the-badge&logo=motorola&logoColor=E1001A)](https://www.samsung.com/)
-[![Codename](https://img.shields.io/badge/✦_Chef-0D1117?style=for-the-badge&logo=lineageos&logoColor=167C80)](https://wiki.lineageos.org/devices/chef/)
-[![ROM](https://img.shields.io/badge/✦_CRDROID_10.5-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84)](https://crdroid.net)
-[![Root](https://img.shields.io/badge/✦_KERNELSU-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)](https://kernelsu.org)
-
-![sys](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=148&lines=※+No+wall+survives+curiosity.;※+Root+is+just+the+beginning.;※+Rewrote+what+they+shipped.;※+System+bends+I+don't.;※+Core+is+mine+now)
-![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117&animation=fadeIn)
-
-[![Magisk](https://img.shields.io/badge/Magisk-0D1117?style=for-the-badge&logo=magisk&logoColor=00AF9C)](https://github.com/topjohnwu/Magisk)
-[![TWRP](https://img.shields.io/badge/TWRP-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84)](https://twrp.me)
-[![ADB](https://img.shields.io/badge/ADB-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84)](https://developer.android.com/tools/adb)
-[![Fastboot](https://img.shields.io/badge/Fastboot-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84)](https://source.android.com/docs/setup/test/running)
-[![LSPosed](https://img.shields.io/badge/LSPosed-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84)](https://github.com/LSPosed/LSPosed)
-
 </div>
 
 <div align="center">
@@ -86,10 +66,9 @@
 
 ![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F87171&center=true&vCenter=true&repeat=false&width=480&height=72&lines=✦+CONNECT+✦)
 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/AlexJamesHQ)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=F472B6)](https://www.instagram.com/7h3.qu13t.0n3?igsh=MXRiajN4cTlzMTg0MQ==)
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=7DD3FC)](https://t.me/Cognitiveshadows)
-[![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=FB923C)](mailto:sharppirate381@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/share/1Bbjz5RTiW/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=F472B6)](https://www.instagram.com/alex.james.dev?exln=dDg5cG5nZTB6aDBx)
+[![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=FB923C)](mailto:alexjames7830@gmail.com)
 
 <br>
 
@@ -100,3 +79,4 @@
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:7DD3FC,100:0D1117&section=footer)
+</div>
