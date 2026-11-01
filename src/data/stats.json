@@ -1,8 +1,8 @@
 {
- "stars": 48,
- "contributions": 142,
- "repos": 12,
- "followers": 24,
+ "stars": 24,
+ "contributions": 873,
+ "repos": 20,
+ "followers": 15,
  "languages": [
   [
    "TypeScript",
@@ -37,190 +37,212 @@
   [
    {
     "c": 0,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 7,
-    "today": false
-   },
-   {
-    "c": 3,
-    "day": 8,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 9,
-    "today": false
-   },
-   {
-    "c": 5,
-    "day": 10,
-    "today": false
-   }
-  ],
-  [
-   {
-    "c": 2,
-    "day": 11,
-    "today": false
-   },
-   {
-    "c": 8,
     "day": 12,
     "today": false
    },
    {
-    "c": 3,
+    "c": 4,
     "day": 13,
     "today": false
    },
    {
-    "c": 6,
+    "c": 3,
     "day": 14,
     "today": false
    },
    {
-    "c": 4,
+    "c": 0,
     "day": 15,
     "today": false
    },
    {
-    "c": 12,
+    "c": 36,
     "day": 16,
     "today": false
    },
    {
-    "c": 15,
+    "c": 11,
     "day": 17,
+    "today": false
+   },
+   {
+    "c": 72,
+    "day": 18,
     "today": false
    }
   ],
   [
    {
-    "c": 7,
-    "day": 18,
-    "today": false
-   },
-   {
-    "c": 9,
+    "c": 3,
     "day": 19,
     "today": false
    },
    {
-    "c": 6,
+    "c": 42,
     "day": 20,
-    "today": true
+    "today": false
    },
-   null,
-   null,
-   null,
-   null
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 14,
+    "day": 31,
+    "today": false
+   },
+   {
+    "c": 24,
+    "day": 1,
+    "today": true
+   }
   ]
  ],
  "pins": [
   {
-   "name": "portfolio",
-   "url": "https://github.com/AlexJamesHQ/portfolio",
-   "text": "Personal portfolio website built with modern web technologies, showcasing projects and experience.",
+   "name": "LunarTune",
+   "url": "https://github.com/AlexJamesHQ/LunarTune",
+   "text": "LunarTune is a modern, privacy-respecting YouTube Music streaming client built from the ground up for Android using Jetpack Compose and Material 3 design guidelines. It brings ad-free listening, lossless audio fallback, rich synced lyrics, and unmatched visual customization right into your hands.",
    "fork": false,
-   "stars": 18,
+   "stars": 3,
+   "language": "TypeScript",
+   "topics": [
+    "android",
+    "youtube-music",
+    "jetpack-compose",
+    "material-3",
+    "music-player"
+   ]
+  },
+  {
+   "name": "OrionStore",
+   "url": "https://github.com/AlexJamesHQ/OrionStore",
+   "text": "A high-performance repository explorer and Android application distribution platform designed with a modern Neobrutalist aesthetic. Built with React, TypeScript, Tailwind CSS, Framer Motion, and Node.js.",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": [
+    "android-store",
+    "react",
+    "typescript",
+    "tailwind",
+    "neobrutalism"
+   ]
+  },
+  {
+   "name": "Koda.web",
+   "url": "https://github.com/AlexJamesHQ/Koda.web",
+   "text": "A Material 3 Expressive Music and Video app for Android with YT Music Support",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "material-3",
+    "music-app",
+    "video-player",
+    "youtube-music"
+   ]
+  },
+  {
+   "name": "Portfolio",
+   "url": "https://github.com/AlexJamesHQ/Portfolio",
+   "text": "Ordinary coder & gamer boy. A personal portfolio and creative engineering showcase built with React 19, TypeScript, Tailwind CSS v4, GSAP, Motion, Matter.js, and OGL (WebGL).",
+   "fork": false,
+   "stars": 1,
    "language": "TypeScript",
    "topics": [
     "portfolio",
-    "nextjs",
-    "react",
+    "react19",
+    "typescript",
     "tailwind",
-    "frontend"
+    "webgl"
+   ]
+  },
+  {
+   "name": "VibeViz",
+   "url": "https://github.com/AlexJamesHQ/VibeViz",
+   "text": "VibeViz is a high-performance web application built with React, TypeScript, MediaPipe Tasks Vision, and Tailwind CSS. It provides real-time multi-perspective analytics including 52-point facial blendshape emotion tracking and 21-point dual-hand gesture / sign language recognition.",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "computer-vision",
+    "mediapipe",
+    "react",
+    "typescript",
+    "ai"
    ]
   },
   {
    "name": "AlexJamesHQ",
    "url": "https://github.com/AlexJamesHQ/AlexJamesHQ",
-   "text": "Material 3 Expressive GitHub profile README generator with live dark/light mode cards.",
+   "text": "ΛLΞX JΛMΞS ᗪEV | C#, Python, JS & .NET Developer Creating immersive web, mobile, and 3D experiences. Let's build something epic!",
    "fork": false,
-   "stars": 12,
+   "stars": 1,
    "language": "TypeScript",
    "topics": [
     "github-profile",
-    "material-you",
-    "material-design",
-    "readme-generator",
-    "profile-readme"
-   ]
-  },
-  {
-   "name": "ecommerce-platform",
-   "url": "https://github.com/AlexJamesHQ/ecommerce-platform",
-   "text": "Full-stack modern e-commerce web application with cart, checkout, payment gateway, and admin panel.",
-   "fork": false,
-   "stars": 9,
-   "language": "React",
-   "topics": [
-    "ecommerce",
-    "react",
-    "nodejs",
-    "express",
-    "fullstack"
-   ]
-  },
-  {
-   "name": "react-dashboard-ui",
-   "url": "https://github.com/AlexJamesHQ/react-dashboard-ui",
-   "text": "Clean and modern analytics dashboard UI kit designed with React, Tailwind CSS, and charts.",
-   "fork": false,
-   "stars": 7,
-   "language": "TypeScript",
-   "topics": [
-    "dashboard",
-    "ui-kit",
-    "react",
-    "tailwind",
-    "analytics"
-   ]
-  },
-  {
-   "name": "fullstack-mern-app",
-   "url": "https://github.com/AlexJamesHQ/fullstack-mern-app",
-   "text": "Scalable MERN stack application featuring JWT authentication, state management, and REST APIs.",
-   "fork": false,
-   "stars": 5,
-   "language": "JavaScript",
-   "topics": [
-    "mern",
-    "mongodb",
-    "express",
-    "react",
-    "nodejs"
-   ]
-  },
-  {
-   "name": "mobile-app-react-native",
-   "url": "https://github.com/AlexJamesHQ/mobile-app-react-native",
-   "text": "Cross-platform iOS and Android mobile app built with React Native, Expo, and Tailwind.",
-   "fork": false,
-   "stars": 4,
-   "language": "TypeScript",
-   "topics": [
-    "react-native",
-    "expo",
-    "mobile",
-    "ios",
-    "android"
+    "readme",
+    "material-3",
+    "alex-james"
    ]
   }
  ],
- "avatar": "alexjames"
+ "avatar": "alexjames",
+ "streak": {
+  "title": "Streak",
+  "current": "Current streak",
+  "longest": "Longest this year",
+  "days": "days",
+  "currentStreakCount": 2,
+  "longestStreakCount": 30
+ }
 }
