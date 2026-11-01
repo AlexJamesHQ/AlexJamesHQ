@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I'm Alex James"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Alex James"></picture>
 
 <a href="https://www.facebook.com/share/1JAz1nG1c6/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="auto" height="42" alt="Facebook"></picture></a>&nbsp;&nbsp;<a href="https://www.instagram.com/alex.james.dev?exln=dDg5cG5nZTB6aDBx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="auto" height="42" alt="Instagram"></picture></a>&nbsp;&nbsp;<a href="https://wa.me/8801977547920"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="auto" height="42" alt="Whatsapp"></picture></a>
 
@@ -21,5 +21,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 <a href="https://alex-james.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" height="46" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/AlexJamesHQ?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" height="46" alt="All repositories"></picture></a>
+
+<a href="https://github.com/AlexJamesHQ"><sub><font color="#8b949e">Made with Alex James Profile</font></sub></a>
 
 </div>
