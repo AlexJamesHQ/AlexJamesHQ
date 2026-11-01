@@ -1,13 +1,12 @@
-name: Generate Real-Time Profile Cards & Auto Sync
-
+name: Generate Real-Time Profile Cards
 on:
   schedule:
-    - cron: '0 */6 * * *' # Automatically runs every 6 hours
+    - cron: '0 */6 * * *'
   push:
     branches:
       - main
       - master
-  workflow_dispatch: # Allows manual one-click trigger in GitHub Actions tab
+  workflow_dispatch:
 
 jobs:
   build-and-sync:
