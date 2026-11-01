@@ -1,0 +1,211 @@
+{
+ "stars": 48,
+ "contributions": 142,
+ "repos": 12,
+ "followers": 24,
+ "languages": [
+  [
+   "TypeScript",
+   1240000
+  ],
+  [
+   "JavaScript",
+   850000
+  ],
+  [
+   "React",
+   620000
+  ],
+  [
+   "HTML",
+   450000
+  ],
+  [
+   "CSS",
+   380000
+  ],
+  [
+   "Python",
+   210000
+  ],
+  [
+   "Node.js",
+   180000
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 2,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 12,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 15,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 7,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 20,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "pins": [
+  {
+   "name": "portfolio",
+   "url": "https://github.com/AlexJamesHQ/portfolio",
+   "text": "Personal portfolio website built with modern web technologies, showcasing projects and experience.",
+   "fork": false,
+   "stars": 18,
+   "language": "TypeScript",
+   "topics": [
+    "portfolio",
+    "nextjs",
+    "react",
+    "tailwind",
+    "frontend"
+   ]
+  },
+  {
+   "name": "AlexJamesHQ",
+   "url": "https://github.com/AlexJamesHQ/AlexJamesHQ",
+   "text": "Material 3 Expressive GitHub profile README generator with live dark/light mode cards.",
+   "fork": false,
+   "stars": 12,
+   "language": "TypeScript",
+   "topics": [
+    "github-profile",
+    "material-you",
+    "material-design",
+    "readme-generator",
+    "profile-readme"
+   ]
+  },
+  {
+   "name": "ecommerce-platform",
+   "url": "https://github.com/AlexJamesHQ/ecommerce-platform",
+   "text": "Full-stack modern e-commerce web application with cart, checkout, payment gateway, and admin panel.",
+   "fork": false,
+   "stars": 9,
+   "language": "React",
+   "topics": [
+    "ecommerce",
+    "react",
+    "nodejs",
+    "express",
+    "fullstack"
+   ]
+  },
+  {
+   "name": "react-dashboard-ui",
+   "url": "https://github.com/AlexJamesHQ/react-dashboard-ui",
+   "text": "Clean and modern analytics dashboard UI kit designed with React, Tailwind CSS, and charts.",
+   "fork": false,
+   "stars": 7,
+   "language": "TypeScript",
+   "topics": [
+    "dashboard",
+    "ui-kit",
+    "react",
+    "tailwind",
+    "analytics"
+   ]
+  },
+  {
+   "name": "fullstack-mern-app",
+   "url": "https://github.com/AlexJamesHQ/fullstack-mern-app",
+   "text": "Scalable MERN stack application featuring JWT authentication, state management, and REST APIs.",
+   "fork": false,
+   "stars": 5,
+   "language": "JavaScript",
+   "topics": [
+    "mern",
+    "mongodb",
+    "express",
+    "react",
+    "nodejs"
+   ]
+  }
+ ],
+ "avatar": "alexjames"
+}

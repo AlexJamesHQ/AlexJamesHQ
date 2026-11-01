@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "login": "Alex James",
+  "login": "AlexJamesHQ",
   "seed": "#FF5CA8",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
@@ -20,18 +20,23 @@
   "hidden": [],
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "",
-    "subtitle": "Frontend developer, some kinda web-designer.\nSometimes few small Windows utilities.",
+    "name": "Alex James",
+    "subtitle": "Full-stack developer & web designer.\nCrafting modern web applications & digital experiences.",
     "typing": true,
     "avatarShape": "cookie12",
+    "avatarUrl": "https://github.com/AlexJamesHQ.png?size=320",
     "chips": [
       {
         "icon": "location_on",
-        "label": "KZ / Russia"
+        "label": "Bangladesh"
+      },
+      {
+        "icon": "person",
+        "label": "Full-Stack Dev"
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python · Rust"
+        "label": "React · TypeScript · Node.js"
       }
     ]
   },
@@ -40,19 +45,19 @@
     "items": [
       {
         "icon": "person",
-        "label": "16 yo. developer"
+        "label": "Alex James — Full-stack Developer"
       },
       {
         "icon": "code",
-        "label": "Mostly frontend, a bit of backend"
+        "label": "Passionate about React, Next.js, TypeScript & modern web dev"
       },
       {
         "icon": "palette",
-        "label": "Web, frontend and UI design"
+        "label": "UI/UX design, clean architectures and responsive web apps"
       },
       {
         "icon": "desktop_windows",
-        "label": "Sometimes few small Windows utilities."
+        "label": "Building scalable web tools, interactive apps and open source"
       }
     ]
   },
@@ -63,24 +68,24 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
-          },
-          {
             "icon": "brand:react",
             "label": "React"
           },
           {
-            "icon": "brand:python",
-            "label": "Python"
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
           },
           {
-            "icon": "brand:rust",
-            "label": "Rust"
+            "icon": "brand:typescript",
+            "label": "TypeScript"
           },
           {
-            "icon": "widgets",
-            "label": "WinUI"
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "Tailwind CSS"
           }
         ]
       },
@@ -88,24 +93,20 @@
         "title": "Also",
         "items": [
           {
-            "icon": "brand:dotnet",
-            "label": "C#"
+            "icon": "brand:python",
+            "label": "Python"
           },
           {
             "icon": "brand:electron",
             "label": "Electron"
           },
           {
-            "icon": "brand:nextdotjs",
-            "label": "Next.js"
+            "icon": "code",
+            "label": "JavaScript"
           },
           {
-            "icon": "brand:tailwindcss",
-            "label": "Java"
-          },
-          {
-            "icon": "brand:kotlin",
-            "label": "Kotlin"
+            "icon": "brand:archlinux",
+            "label": "Linux"
           }
         ]
       },
@@ -117,12 +118,16 @@
             "label": "Git"
           },
           {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
             "icon": "brand:figma",
             "label": "Figma"
           },
           {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:discord",
+            "label": "Discord"
           }
         ]
       }
@@ -131,11 +136,11 @@
   "projects": {
     "source": "pinned",
     "repos": [
-      "expressive-profile",
-      "yandex-music-rpc",
-      "SuperDictate-win",
-      "Win-Activity-Tracker",
-      "711zip"
+      "portfolio",
+      "AlexJamesHQ",
+      "ecommerce-platform",
+      "react-dashboard-ui",
+      "fullstack-mern-app"
     ],
     "overrides": {},
     "empty": "No description yet.",
@@ -161,16 +166,16 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:telegram",
-        "url": "https://t.me/metawka"
+        "icon": "brand:facebook",
+        "url": "https://www.facebook.com/share/1JAz1nG1c6/"
       },
       {
-        "icon": "brand:tiktok",
-        "url": "https://www.tiktok.com/@metawka_"
+        "icon": "brand:instagram",
+        "url": "https://www.instagram.com/alex.james.dev?exln=dDg5cG5nZTB6aDBx"
       },
       {
-        "icon": "brand:steam",
-        "url": "https://steamcommunity.com/id/metawq/"
+        "icon": "brand:whatsapp",
+        "url": "https://wa.me/8801977547920"
       }
     ],
     "variant": "chip",
@@ -182,13 +187,13 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://metawka.xyz",
+        "url": "https://alex-james.vercel.app",
         "style": "filled"
       },
       {
         "icon": "book_2",
         "label": "All repositories",
-        "url": "https://github.com/metawka?tab=repositories",
+        "url": "https://github.com/AlexJamesHQ?tab=repositories",
         "style": "tonal"
       }
     ]

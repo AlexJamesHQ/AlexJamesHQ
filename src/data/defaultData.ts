@@ -1,0 +1,288 @@
+import { ProfileConfig, StatsData, PaletteData, IconsData } from '../types';
+import paletteJson from './palette.json';
+import statsJson from './stats.json';
+import iconsJson from './icons.json';
+import alexAvatarJson from './alexAvatar.json';
+
+export const DEFAULT_PROFILE: ProfileConfig = {
+  version: 1,
+  login: 'AlexJamesHQ',
+  seed: '#FF5CA8',
+  seedFromAvatar: false,
+  scheme: 'tonalSpot',
+  motion: true,
+  iconFill: true,
+  order: [
+    'hero',
+    'socials',
+    'about',
+    'stack',
+    'projects',
+    'stats',
+    'streak',
+    'wave',
+    'buttons',
+  ],
+  hidden: [],
+  hero: {
+    greeting: "Hi, I'm",
+    name: 'Alex James',
+    subtitle: 'Full-stack developer & web designer.\nCrafting modern web applications & digital experiences.',
+    typing: true,
+    avatarShape: 'cookie12',
+    avatarUrl: (alexAvatarJson as { avatar: string }).avatar,
+    chips: [
+      {
+        icon: 'location_on',
+        label: 'Bangladesh',
+      },
+      {
+        icon: 'person',
+        label: 'Full-Stack Dev',
+      },
+      {
+        icon: 'code',
+        label: 'React · TypeScript · Node.js',
+      },
+    ],
+  },
+  about: {
+    title: 'About me',
+    items: [
+      {
+        icon: 'person',
+        label: 'Alex James — Full-stack Developer',
+      },
+      {
+        icon: 'code',
+        label: 'Passionate about React, Next.js, TypeScript & modern web dev',
+      },
+      {
+        icon: 'palette',
+        label: 'UI/UX design, clean architectures and responsive web apps',
+      },
+      {
+        icon: 'desktop_windows',
+        label: 'Building scalable web tools, interactive apps and open source',
+      },
+    ],
+  },
+  stack: {
+    title: 'Tech stack',
+    groups: [
+      {
+        title: 'Main',
+        items: [
+          {
+            icon: 'brand:react',
+            label: 'React',
+          },
+          {
+            icon: 'brand:nextdotjs',
+            label: 'Next.js',
+          },
+          {
+            icon: 'brand:typescript',
+            label: 'TypeScript',
+          },
+          {
+            icon: 'brand:nodedotjs',
+            label: 'Node.js',
+          },
+          {
+            icon: 'brand:tailwindcss',
+            label: 'Tailwind CSS',
+          },
+        ],
+      },
+      {
+        title: 'Also',
+        items: [
+          {
+            icon: 'brand:python',
+            label: 'Python',
+          },
+          {
+            icon: 'brand:electron',
+            label: 'Electron',
+          },
+          {
+            icon: 'code',
+            label: 'JavaScript',
+          },
+          {
+            icon: 'brand:archlinux',
+            label: 'Linux',
+          },
+        ],
+      },
+      {
+        title: 'Tools',
+        items: [
+          {
+            icon: 'brand:git',
+            label: 'Git',
+          },
+          {
+            icon: 'brand:githubactions',
+            label: 'GitHub Actions',
+          },
+          {
+            icon: 'brand:figma',
+            label: 'Figma',
+          },
+          {
+            icon: 'brand:discord',
+            label: 'Discord',
+          },
+        ],
+      },
+    ],
+  },
+  projects: {
+    source: 'pinned',
+    repos: [
+      'portfolio',
+      'AlexJamesHQ',
+      'ecommerce-platform',
+      'react-dashboard-ui',
+      'fullstack-mern-app',
+    ],
+    overrides: {},
+    empty: 'No description yet.',
+    fork: 'Fork',
+  },
+  stats: {
+    title: 'GitHub activity',
+    stars: 'Stars earned',
+    contributions: 'Contributions this year',
+    repos: 'Public repos',
+    followers: 'Followers',
+    calendar: 'Last 21 days',
+    weekdays: 'SMTWTFS',
+    languages: 'Languages across my repositories',
+    showLanguages: true,
+  },
+  streak: {
+    title: 'Streak',
+    current: 'Current streak',
+    longest: 'Longest this year',
+    days: 'days',
+    currentStreakCount: 14,
+    longestStreakCount: 28,
+  },
+  socials: {
+    items: [
+      {
+        icon: 'brand:facebook',
+        url: 'https://www.facebook.com/share/1JAz1nG1c6/',
+      },
+      {
+        icon: 'brand:instagram',
+        url: 'https://www.instagram.com/alex.james.dev?exln=dDg5cG5nZTB6aDBx',
+      },
+      {
+        icon: 'brand:whatsapp',
+        url: 'https://wa.me/8801977547920',
+      },
+    ],
+    variant: 'chip',
+    fill: 'tonal',
+    card: true,
+  },
+  buttons: {
+    items: [
+      {
+        icon: 'language',
+        label: 'My website',
+        url: 'https://alex-james.vercel.app',
+        style: 'filled',
+      },
+      {
+        icon: 'book_2',
+        label: 'All repositories',
+        url: 'https://github.com/AlexJamesHQ?tab=repositories',
+        style: 'tonal',
+      },
+    ],
+  },
+};
+
+export const DEFAULT_STATS: StatsData = {
+  stars: 48,
+  contributions: 142,
+  repos: 12,
+  followers: 24,
+  languages: [
+    ['TypeScript', 1240000],
+    ['JavaScript', 850000],
+    ['React', 620000],
+    ['HTML', 450000],
+    ['CSS', 380000],
+    ['Python', 210000],
+    ['Node.js', 180000],
+  ],
+  days: (statsJson as unknown as StatsData).days,
+  pins: [
+    {
+      name: 'portfolio',
+      url: 'https://github.com/AlexJamesHQ/portfolio',
+      text: 'Personal portfolio website built with modern web technologies, showcasing projects and experience.',
+      fork: false,
+      stars: 18,
+      language: 'TypeScript',
+      topics: ['portfolio', 'nextjs', 'react', 'tailwind', 'frontend'],
+    },
+    {
+      name: 'AlexJamesHQ',
+      url: 'https://github.com/AlexJamesHQ/AlexJamesHQ',
+      text: 'Material 3 Expressive GitHub profile README generator with live dark/light mode cards.',
+      fork: false,
+      stars: 12,
+      language: 'TypeScript',
+      topics: ['github-profile', 'material-you', 'material-design', 'readme-generator', 'profile-readme'],
+    },
+    {
+      name: 'ecommerce-platform',
+      url: 'https://github.com/AlexJamesHQ/ecommerce-platform',
+      text: 'Full-stack modern e-commerce web application with cart, checkout, payment gateway, and admin panel.',
+      fork: false,
+      stars: 9,
+      language: 'React',
+      topics: ['ecommerce', 'react', 'nodejs', 'express', 'fullstack'],
+    },
+    {
+      name: 'react-dashboard-ui',
+      url: 'https://github.com/AlexJamesHQ/react-dashboard-ui',
+      text: 'Clean and modern analytics dashboard UI kit designed with React, Tailwind CSS, and charts.',
+      fork: false,
+      stars: 7,
+      language: 'TypeScript',
+      topics: ['dashboard', 'ui-kit', 'react', 'tailwind', 'analytics'],
+    },
+    {
+      name: 'fullstack-mern-app',
+      url: 'https://github.com/AlexJamesHQ/fullstack-mern-app',
+      text: 'Scalable MERN stack application featuring JWT authentication, state management, and REST APIs.',
+      fork: false,
+      stars: 5,
+      language: 'JavaScript',
+      topics: ['mern', 'mongodb', 'express', 'react', 'nodejs'],
+    },
+  ],
+  avatar: 'alexjames',
+};
+
+export const DEFAULT_PALETTE = paletteJson as unknown as PaletteData;
+export const ICONS = iconsJson as unknown as IconsData;
+
+export const PRESET_SEEDS = [
+  { name: 'Berry (Default)', hex: '#FF5CA8' },
+  { name: 'Indigo Dream', hex: '#6366F1' },
+  { name: 'Emerald Forest', hex: '#10B981' },
+  { name: 'Ocean Cyan', hex: '#06B6D4' },
+  { name: 'Amber Sunset', hex: '#F59E0B' },
+  { name: 'Violet Royale', hex: '#8B5CF6' },
+  { name: 'Crimson Flame', hex: '#EF4444' },
+  { name: 'Slate Monochrome', hex: '#64748B' },
+];
