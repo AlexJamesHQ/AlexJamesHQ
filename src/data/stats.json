@@ -205,6 +205,21 @@
     "react",
     "nodejs"
    ]
+  },
+  {
+   "name": "mobile-app-react-native",
+   "url": "https://github.com/AlexJamesHQ/mobile-app-react-native",
+   "text": "Cross-platform iOS and Android mobile app built with React Native, Expo, and Tailwind.",
+   "fork": false,
+   "stars": 4,
+   "language": "TypeScript",
+   "topics": [
+    "react-native",
+    "expo",
+    "mobile",
+    "ios",
+    "android"
+   ]
   }
  ],
  "avatar": "alexjames"

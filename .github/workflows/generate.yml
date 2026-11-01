@@ -1,0 +1,42 @@
+name: Generate Real-Time Profile Cards & Auto Sync
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Automatically runs every 6 hours
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch: # Allows manual one-click trigger in GitHub Actions tab
+
+jobs:
+  build-and-sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Fetch Real-Time GitHub Stats & Regenerate SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npx tsx scripts/generateAssets.ts
+
+      - name: Commit & Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chrono: Auto-update real-time GitHub profile stats & SVGs"
+          file_pattern: 'assets/*.svg README.md public/README.md src/data/stats.json public/data/stats.json'

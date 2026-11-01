@@ -445,13 +445,15 @@ export function generateStatsSvg(profile: ProfileConfig, stats: StatsData, p: Pa
 
   let maxContrib = 1;
   stats.days.forEach((wk) => {
-    wk.forEach((d) => {
-      if (d && d.c > maxContrib) maxContrib = d.c;
+    wk.forEach((d: any) => {
+      if (!d) return;
+      const val = typeof d === 'number' ? d : (d.c ?? d.count ?? 0);
+      if (val > maxContrib) maxContrib = val;
     });
   });
 
   stats.days.forEach((wk, wi) => {
-    wk.forEach((d, di) => {
+    wk.forEach((d: any, di) => {
       const cx = rx + di * (cw + gap);
       const cy = 136 + wi * (ch + 6);
       const delay = 0.2 + (wi * 7 + di) * 0.025;
@@ -461,13 +463,19 @@ export function generateStatsSvg(profile: ProfileConfig, stats: StatsData, p: Pa
         return;
       }
 
-      const lvl = d.c === 0 ? 0 : Math.min(4, 1 + Math.round((3 * d.c) / maxContrib));
+      const count = typeof d === 'number' ? d : (d.c ?? d.count ?? 0);
+      const dayLabel = typeof d === 'number' ? '' : (d.day !== undefined ? String(d.day) : '');
+      const isToday = typeof d === 'object' && d ? Boolean(d.today) : false;
+
+      const lvl = count === 0 ? 0 : Math.min(4, Math.max(1, Math.round((4 * count) / maxContrib)));
       const fg = lvl >= 3 ? p.onPrimary : p.onSurfaceVariant;
       let cell = `<rect x="${cx.toFixed(1)}" y="${cy}" width="${cw.toFixed(1)}" height="${ch}" rx="14" fill="${levels[lvl]}"/>`;
-      if (d.today) {
+      if (isToday) {
         cell += `<rect x="${(cx - 3).toFixed(1)}" y="${cy - 3}" width="${(cw + 6).toFixed(1)}" height="${ch + 6}" rx="17" fill="none" stroke="${p.primary}" stroke-width="2"/>`;
       }
-      cell += renderText(cx + cw / 2, cy + ch / 2 + 5, String(d.day), 14, fg, 600, '', null, 'middle');
+      if (dayLabel) {
+        cell += renderText(cx + cw / 2, cy + ch / 2 + 5, dayLabel, 14, fg, 600, '', null, 'middle');
+      }
       b.push(`<g class="pop" style="animation-delay:${delay.toFixed(3)}s">${cell}</g>`);
     });
   });
@@ -656,11 +664,19 @@ export function generateCreditSvg(p: PaletteTheme, motion = true): string {
 // Generate Readme Markdown matching generate.py readme()
 export function generateReadmeMarkdown(profile: ProfileConfig, pins: PinnedRepo[]): string {
   const slug = (name: string) => name.toLowerCase().replace(/[^a-z0-9]/g, '-').replace(/^-+|-+$/g, '');
-  const pic = (name: string, alt: string, width = '100%') =>
-    `<picture><source media="(prefers-color-scheme: dark)" srcset="assets/${name}-dark.svg"><img src="assets/${name}-light.svg" width="${width}" alt="${escapeHtml(alt)}"></picture>`;
+  const pic = (name: string, alt: string, width = '100%', height?: string) => {
+    const hAttr = height ? ` height="${height}"` : '';
+    return `<picture><source media="(prefers-color-scheme: dark)" srcset="assets/${name}-dark.svg"><img src="assets/${name}-light.svg" width="${width}"${hAttr} alt="${escapeHtml(alt)}"></picture>`;
+  };
 
-  // Sliced continuous card row matching the original expressive-profile format
-  const socialsHtml = `<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="20.833%" alt=""></picture><a href="${profile.socials.items[0]?.url || 'https://www.facebook.com/share/1JAz1nG1c6/'}"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="19.048%" alt="Facebook"></picture></a><a href="${profile.socials.items[1]?.url || 'https://www.instagram.com/alex.james.dev?exln=dDg5cG5nZTB6aDBx'}"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="20.238%" alt="Instagram"></picture></a><a href="${profile.socials.items[2]?.url || 'https://wa.me/8801977547920'}"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="20.238%" alt="WhatsApp"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="19.643%" alt=""></picture>`;
+  // Standalone separated social pill chips (Facebook, Instagram, WhatsApp) with clean spacing
+  const socialsHtml = profile.socials.items
+    .map((s, idx) => {
+      const brand = s.icon.replace('brand:', '');
+      const alt = brand.charAt(0).toUpperCase() + brand.slice(1);
+      return `<a href="${s.url}">${pic(`social-${idx + 1}`, alt, 'auto', '42')}</a>`;
+    })
+    .join('&nbsp;&nbsp;');
 
   const cards = pins.map(
     (pin) => `<a href="${pin.url}">${pic('project-' + slug(pin.name), pin.name, '49%')}</a>`
@@ -674,9 +690,11 @@ export function generateReadmeMarkdown(profile: ProfileConfig, pins: PinnedRepo[
   const buttonsHtml = profile.buttons.items
     .map(
       (b, idx) =>
-        `<a href="${b.url}">${pic(`button-${idx + 1}`, b.label, 'auto')}</a>`
+        `<a href="${b.url}">${pic(`button-${idx + 1}`, b.label, 'auto', '46')}</a>`
     )
     .join('&nbsp;&nbsp;');
+
+  const creditText = `<a href="https://github.com/${profile.login}"><sub><font color="#8b949e">Made with Alex James Profile</font></sub></a>`;
 
   const blocks: string[] = [
     pic('hero', profile.hero.greeting + ' ' + (profile.hero.name || profile.login)),
@@ -688,7 +706,7 @@ export function generateReadmeMarkdown(profile: ProfileConfig, pins: PinnedRepo[
     pic('streak', profile.streak.title || 'Streak'),
     pic('wave', ''),
     buttonsHtml,
-    `<a href="https://github.com/AlexJamesHQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Alex James Profile"></picture></a>`,
+    creditText,
   ];
 
   return '<div align="center">\n\n' + blocks.join('\n\n') + '\n\n</div>\n';

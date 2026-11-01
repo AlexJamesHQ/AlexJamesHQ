@@ -61,7 +61,7 @@ export const App: React.FC = () => {
         isDark ? 'bg-[#0d1117] text-neutral-100' : 'bg-[#f6f8fa] text-[#1f2328]'
       }`}
     >
-      {/* Pure, Clean Profile - ZERO headers, ZERO banners, ZERO footers */}
+      {/* Pure, Clean Profile - ZERO headers, ZERO banners, ZERO footers, ZERO floating buttons */}
       <main className="w-full max-w-4xl mx-auto px-3 sm:px-6 py-6 sm:py-10">
         <ProfileViewer
           profile={profile}
@@ -70,40 +70,6 @@ export const App: React.FC = () => {
           theme={theme}
         />
       </main>
-
-      {/* Discrete Floating Controls (Theme Toggle & Copy README) */}
-      <div className="fixed bottom-4 right-4 z-50 flex items-center gap-2 bg-neutral-900/90 backdrop-blur-md border border-neutral-700/60 p-1.5 rounded-full shadow-2xl">
-        <button
-          onClick={() => setTheme(isDark ? 'light' : 'dark')}
-          className="p-2 rounded-full hover:bg-neutral-800 text-neutral-300 hover:text-white transition"
-          title={`Switch to ${isDark ? 'Light' : 'Dark'} mode`}
-          aria-label="Toggle theme"
-        >
-          {isDark ? (
-            <Sun className="w-4 h-4 text-amber-300" />
-          ) : (
-            <Moon className="w-4 h-4 text-indigo-300" />
-          )}
-        </button>
-
-        <button
-          onClick={handleQuickCopyReadme}
-          className="flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold bg-pink-600 hover:bg-pink-500 text-white transition shadow-sm"
-          title="Copy ready-to-use README.md markdown"
-        >
-          {copiedReadme ? (
-            <>
-              <Check className="w-3.5 h-3.5 text-white" />
-              <span>Copied!</span>
-            </>
-          ) : (
-            <>
-              <Copy className="w-3.5 h-3.5" />
-              <span>Copy README</span>
-            </>
-          )}
-        </button>
-      </div>
     </div>
   );
 };
