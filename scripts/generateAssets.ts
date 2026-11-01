@@ -190,7 +190,6 @@ async function main() {
   // Generate the exact README.md for AlexJamesHQ
   const readmeMarkdown = generateReadmeMarkdown(DEFAULT_PROFILE, liveStats.pins);
   fs.writeFileSync(path.join(rootDir, 'README.md'), readmeMarkdown, 'utf8');
-  fs.writeFileSync(path.join(rootDir, 'public', 'README.md'), readmeMarkdown, 'utf8');
 
   console.log(`Successfully generated ${Object.keys(files).length} SVG assets and README.md with live GitHub stats!`);
 }
