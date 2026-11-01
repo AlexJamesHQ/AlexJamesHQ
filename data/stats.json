@@ -1,0 +1,216 @@
+{
+ "stars": 31,
+ "contributions": 62,
+ "repos": 8,
+ "followers": 9,
+ "languages": [
+  [
+   "Python",
+   1232091
+  ],
+  [
+   "TypeScript",
+   1173745
+  ],
+  [
+   "HTML",
+   766704
+  ],
+  [
+   "JavaScript",
+   507649
+  ],
+  [
+   "CSS",
+   319647
+  ],
+  [
+   "C#",
+   239450
+  ],
+  [
+   "Rust",
+   23480
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 23,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "pins": [
+  {
+   "name": "expressive-profile",
+   "url": "https://github.com/metawka/expressive-profile",
+   "text": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
+   "fork": false,
+   "stars": 27,
+   "language": "JavaScript",
+   "topics": [
+    "github-actions",
+    "github-profile",
+    "material-design",
+    "material-you",
+    "profile-readme",
+    "readme-generator"
+   ]
+  },
+  {
+   "name": "yandex-music-rpc",
+   "url": "https://github.com/metawka/yandex-music-rpc",
+   "text": "Discord Rich Presence \u0434\u043b\u044f \u0434\u0435\u0441\u043a\u0442\u043e\u043f\u043d\u043e\u0439 \u042f\u043d\u0434\u0435\u043a\u0441 \u041c\u0443\u0437\u044b\u043a\u0438. \u041d\u0430\u0442\u0438\u0432\u043d\u044b\u0439, \u0431\u0435\u0437 \u043f\u0430\u0442\u0447\u0430 \u043a\u043b\u0438\u0435\u043d\u0442\u0430",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": [
+    "discord-rich-presence",
+    "discord-rpc",
+    "rust",
+    "windows",
+    "yandex-music"
+   ]
+  },
+  {
+   "name": "SuperDictate-win",
+   "url": "https://github.com/metawka/SuperDictate-win",
+   "text": "Fast, private, local dictation for Windows.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "dictation",
+    "speech-to-text",
+    "windows"
+   ]
+  },
+  {
+   "name": "Win-Activity-Tracker",
+   "url": "https://github.com/metawka/Win-Activity-Tracker",
+   "text": "Local screen time tracker for Windows with a Task Manager style dashboard. No account, no telemetry.",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": [
+    "activity-tracker",
+    "csharp",
+    "dotnet",
+    "productivity",
+    "screen-time",
+    "time-tracker",
+    "windows",
+    "winui3"
+   ]
+  },
+  {
+   "name": "711zip",
+   "url": "https://github.com/metawka/711zip",
+   "text": "Windows 11-style front end for 7-Zip (WinUI 3, light/dark)",
+   "fork": false,
+   "stars": 2,
+   "language": "C#",
+   "topics": [
+    "7z",
+    "7zip",
+    "archives",
+    "dotnet",
+    "win11",
+    "windows",
+    "winui3",
+    "zip"
+   ]
+  }
+ ],
+ "avatar": "0303a3301d45"
+}
