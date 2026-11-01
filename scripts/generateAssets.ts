@@ -161,7 +161,6 @@ async function main() {
     files[`stats-${theme}.svg`] = generateStatsSvg(DEFAULT_PROFILE, liveStats, p);
     files[`streak-${theme}.svg`] = generateStreakSvg(DEFAULT_PROFILE, liveStats, p);
     files[`wave-${theme}.svg`] = generateWaveSvg(p, DEFAULT_PROFILE.motion);
-    files[`credit-${theme}.svg`] = generateCreditSvg(p, DEFAULT_PROFILE.motion);
 
     // Standalone separated social pill chips (Facebook, Instagram, WhatsApp)
     DEFAULT_PROFILE.socials.items.forEach((s, i) => {
