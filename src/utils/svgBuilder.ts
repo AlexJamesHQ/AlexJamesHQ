@@ -647,20 +647,6 @@ export function generateSocialPillSvg(
   return wrapSvg(Math.round(w), h, b.join(''), label, motion);
 }
 
-// 12. Credit SVG
-export function generateCreditSvg(p: PaletteTheme, motion = true): string {
-  const h = 42;
-  const label = 'Made with Alex James Profile';
-  const size = 13;
-  const w = 24 * 2 + 18 + 8 + textWidth(label, size, 500);
-
-  const b = [`<g class="fade"><rect width="${w.toFixed(1)}" height="${h}" rx="21" fill="${p.surfaceContainerLow}" stroke="${p.outlineVariant}"/>`];
-  b.push(renderIcon('favorite', 18, (h - 16) / 2, 16, p.primary));
-  b.push(renderText(18 + 16 + 8, h / 2 + 5, label, size, p.onSurfaceVariant, 500) + '</g>');
-
-  return wrapSvg(Math.round(w), h, b.join(''), label, motion);
-}
-
 // Generate Readme Markdown matching generate.py readme()
 export function generateReadmeMarkdown(profile: ProfileConfig, pins: PinnedRepo[]): string {
   const slug = (name: string) => name.toLowerCase().replace(/[^a-z0-9]/g, '-').replace(/^-+|-+$/g, '');
@@ -694,8 +680,6 @@ export function generateReadmeMarkdown(profile: ProfileConfig, pins: PinnedRepo[
     )
     .join('&nbsp;&nbsp;');
 
-  const creditText = `<a href="https://github.com/${profile.login}"><sub><font color="#8b949e">Made with Alex James Profile</font></sub></a>`;
-
   const blocks: string[] = [
     pic('hero', profile.hero.greeting + ' ' + (profile.hero.name || profile.login)),
     socialsHtml,
@@ -706,7 +690,6 @@ export function generateReadmeMarkdown(profile: ProfileConfig, pins: PinnedRepo[
     pic('streak', profile.streak.title || 'Streak'),
     pic('wave', ''),
     buttonsHtml,
-    creditText,
   ];
 
   return '<div align="center">\n\n' + blocks.join('\n\n') + '\n\n</div>\n';

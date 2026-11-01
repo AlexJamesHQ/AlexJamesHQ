@@ -210,10 +210,10 @@ export const DEFAULT_PROFILE: ProfileConfig = {
 };
 
 export const DEFAULT_STATS: StatsData = {
-  stars: 48,
-  contributions: 142,
-  repos: 12,
-  followers: 24,
+  stars: 24,
+  contributions: 873,
+  repos: 20,
+  followers: 15,
   languages: [
     ['TypeScript', 1240000],
     ['JavaScript', 850000],

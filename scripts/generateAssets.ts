@@ -12,7 +12,6 @@ import {
   generateStreakSvg,
   generateWaveSvg,
   generateButtonSvg,
-  generateCreditSvg,
   generateSocialPillSvg,
   generateSocialCapSvg,
   generateSocialSliceSvg,

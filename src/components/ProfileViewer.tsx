@@ -13,7 +13,6 @@ import {
   generateStreakSvg,
   generateWaveSvg,
   generateButtonSvg,
-  generateCreditSvg,
   generateSocialPillSvg,
 } from '../utils/svgBuilder';
 import { Download, Copy, Check, ExternalLink, Code } from 'lucide-react';
@@ -40,7 +39,6 @@ export const ProfileViewer: React.FC<ProfileViewerProps> = ({
   const statsSvg = useMemo(() => generateStatsSvg(profile, stats, palette), [profile, stats, palette]);
   const streakSvg = useMemo(() => generateStreakSvg(profile, stats, palette), [profile, stats, palette]);
   const waveSvg = useMemo(() => generateWaveSvg(palette, profile.motion), [palette, profile.motion]);
-  const creditSvg = useMemo(() => generateCreditSvg(palette, profile.motion), [palette, profile.motion]);
 
   const projectSvgs = useMemo(() => {
     return stats.pins.map((pin, i) => ({
