@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "login": "Alex James",
+  "login": "metawka",
   "seed": "#FF5CA8",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
@@ -20,14 +20,14 @@
   "hidden": [],
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "Alex James",
+    "name": "",
     "subtitle": "Frontend developer, some kinda web-designer.\nSometimes few small Windows utilities.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Pabna"
+        "label": "KZ / Russia"
       },
       {
         "icon": "code",
