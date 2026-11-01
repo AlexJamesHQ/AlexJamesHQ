@@ -21,3 +21,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 <a href="https://alex-james.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" height="46" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/AlexJamesHQ?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" height="46" alt="All repositories"></picture></a>
+
+<a href="https://github.com/AlexJamesHQ"><sub><font color="#8b949e">Made with Alex James Profile</font></sub></a>
+
+</div>
