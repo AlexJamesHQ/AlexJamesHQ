@@ -315,17 +315,6 @@ export const ProfileViewer: React.FC<ProfileViewerProps> = ({
       <div className="flex flex-col items-center">
         {profile.order.map((sectionKey) => renderSectionWidget(sectionKey))}
 
-        {/* Clean text credit matching Screenshot_20261101_191708.jpg */}
-        <div className="mt-3 mb-1 flex justify-center">
-          <a
-            href={`https://github.com/${profile.login}`}
-            target="_blank"
-            rel="noreferrer"
-            className="text-xs text-neutral-500 font-medium hover:text-neutral-400 transition"
-          >
-            Made with Alex James Profile
-          </a>
-        </div>
       </div>
     </div>
   );
