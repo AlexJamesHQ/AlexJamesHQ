@@ -180,12 +180,10 @@ async function main() {
 
   for (const [filename, content] of Object.entries(files)) {
     fs.writeFileSync(path.join(assetsDir, filename), content, 'utf8');
-    fs.writeFileSync(path.join(publicAssetsDir, filename), content, 'utf8');
   }
 
   // Update stats.json
   fs.writeFileSync(path.join(rootDir, 'src', 'data', 'stats.json'), JSON.stringify(liveStats, null, 1), 'utf8');
-  fs.writeFileSync(path.join(rootDir, 'public', 'data', 'stats.json'), JSON.stringify(liveStats, null, 1), 'utf8');
 
   // Generate the exact README.md for AlexJamesHQ
   const readmeMarkdown = generateReadmeMarkdown(DEFAULT_PROFILE, liveStats.pins);
