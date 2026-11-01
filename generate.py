@@ -12,7 +12,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 OUT = ROOT / "assets"
-USER = "metawka"
+USER = "Alex James"
 W = 840
 
 PALETTE = json.loads((ROOT / "data/palette.json").read_text(encoding="utf-8"))
