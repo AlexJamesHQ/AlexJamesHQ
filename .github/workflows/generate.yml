@@ -1,4 +1,4 @@
-Name: Generate Real-Time Profile Cards
+name: Generate Real-Time Profile Cards
 on:
   schedule:
     - cron: '0 */6 * * *'
