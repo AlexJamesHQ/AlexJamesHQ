@@ -1,8 +1,8 @@
 {
- "stars": 24,
- "contributions": 940,
+ "stars": 25,
+ "contributions": 941,
  "repos": 20,
- "followers": 13,
+ "followers": 14,
  "languages": [
   [
    "TypeScript",
@@ -140,7 +140,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 17,
     "today": true
    }
@@ -196,7 +196,7 @@
    "url": "https://github.com/AlexJamesHQ/Portfolio",
    "text": "Ordinary coder & gamer boy. A personal portfolio and creative engineering showcase built with React 19, TypeScript, Tailwind CSS v4, GSAP, Motion, Matter.js, and OGL (WebGL).",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "TypeScript",
    "topics": [
     "portfolio",
@@ -242,7 +242,7 @@
   "current": "Current streak",
   "longest": "Longest this year",
   "days": "days",
-  "currentStreakCount": 17,
+  "currentStreakCount": 18,
   "longestStreakCount": 30
  }
 }
